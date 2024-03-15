@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @Marquesmarki
+ # 👋 Hi, I’m @Marquesmarki
 - 👀 I’m interested in la informatica
 - 🌱 I’m currently learning Informatica
 - 💞️ I’m looking to collaborate on Informatica
